@@ -1,0 +1,32 @@
+v s
+v s1
+v s2
+v a
+v b
+v c
+v d
+v f
+v p
+
+e "8" s s1
+e "7" s s2
+
+e "4" s1 a
+e "4" s1 b
+
+e "2" s2 b
+e "5" s2 c
+
+e "5" a d
+e "1" a b
+
+e "4" b d
+e "3" b f
+
+e "2" c b
+e "3" c f
+
+e "4" d f
+e "6" d p
+
+e "8" f p
