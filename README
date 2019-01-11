@@ -2,3 +2,12 @@
 > lancer ftest générera un fichier .dot du graphe de flow max.
 
 > testunit regroupe quelques tests unitaires. Les indications pour le lancer sont en haut du fichier.
+
+
+
+
+
+
+Sources pour les graphes de test utilisés : 
+http://homepages.ulb.ac.be/~bfortz/algo3-4.pdf
+http://emmanuel.caillaud.pagesperso-orange.fr/Emmanuel_Caillaud/Accueil_files/RO%202015%20version%20courte.pdf
