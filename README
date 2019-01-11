@@ -1,0 +1,4 @@
+
+> lancer ftest générera un fichier .dot du graphe de flow max.
+
+> testunit regroupe quelques tests unitaires. Les indications pour le lancer sont en haut du fichier.
